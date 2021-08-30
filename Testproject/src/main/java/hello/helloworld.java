@@ -1,11 +1,10 @@
-package helloworld;
+package hello;
 
-public class hello {
+public class helloworld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("GHello");
-
+          System.out.println("Hello");
 	}
 
 }
